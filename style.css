@@ -1,0 +1,37 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+
+#opponent-choice,
+#your-choice {
+  width: 240px;
+  height: 240px;
+  margin-top: 10px;
+}
+
+#choices {
+  width: 240px;
+  height: 80px;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+  /* background-color: green; */
+}
+
+#choices img {
+  width: 80px;
+  height: 80px;
+}
+
+p {
+  font-weight: bold;
+  font-size: 32px;
+}
